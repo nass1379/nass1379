@@ -1,4 +1,4 @@
-![Nassim Barhoumi — Data Science, Data Engineering, Applied ML](assets/header.svg)
+![Nassim Barhoumi — Data Science, Data Engineering, Applied ML](assets/header-tennis.svg)
 
 <p align="center">
   <strong>Junior Data Scientist @ Tennis Canada · Computer Science @ Université de Montréal</strong>
