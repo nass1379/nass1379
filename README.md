@@ -51,6 +51,15 @@ The public documentation outlines a workflow for classifying modern slavery-rela
 **Focus:** NLP, model fine-tuning, explainability  
 [Project documentation](https://github.com/nass1379/aims#readme) · [Video demonstration](https://youtu.be/lquIqSGoNYA)
 
+## Education
+
+**B.Sc. in Computer Science** · Université de Montréal  
+Expected December 2027
+
+<img src="assets/ib-diploma.png" alt="International Baccalaureate" width="64" height="64" />
+
+**International Baccalaureate (IB) Diploma**
+
 ## Technical toolkit
 
 **Data & cloud**
